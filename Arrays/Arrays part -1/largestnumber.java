@@ -1,4 +1,4 @@
-public class largestnumber{
+    public class largestnumber{
     public static int findlarge(int numbers[]){
            int largest = Integer.MIN_VALUE;
            int smallest = Integer.MAX_VALUE;
